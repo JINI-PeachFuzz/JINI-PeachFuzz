@@ -13,11 +13,12 @@
 <div>
 
 
-### 📊 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact)  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINI-PeachFuzz&hide=contribs,prs&show_icons=true&theme=dracula)  
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aricclunj)](https://solved.ac/aricclunj/)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINI-PeachFuzz&hide=contribs,prs&show_icons=true&theme=dracula)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aricclunj)](https://solved.ac/aricclunj/)
 
 
 <h1>🌱Jini Skills🌱</h1>
