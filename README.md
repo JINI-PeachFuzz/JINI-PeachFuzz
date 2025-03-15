@@ -14,7 +14,7 @@
 
 </div>
 
-<table>
+<table border="0">
   <tr>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact" />
