@@ -14,12 +14,12 @@
 
 </div>
 
-<table border="0">
+<table >
   <tr>
-    <td>
+    <td border="0">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact" />
     </td>
-    <td>
+    <td border="0">
       <img src="https://github-readme-stats.vercel.app/api?username=JINI-PeachFuzz&hide=contribs,prs&show_icons=true&theme=dracula" />
     </td>
   </tr>
