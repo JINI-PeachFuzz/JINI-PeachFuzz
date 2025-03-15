@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=300&section=header&text="Hello,%20I'm%20Jinju!%20🌱%20Growing%20as%20a%20developer%20every%20day."%20%20%20&fontSize=28)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=200&section=header&desc="Hello,%20I'm%20Jinju!%20🌱%20Striving%20to%20become%20a%20better%20developer%20every%20day."&descAlignY=40&descSize=25)
 
 ### 👋 Hello, I'm Jinju!
 - 💻 Backend Developer
