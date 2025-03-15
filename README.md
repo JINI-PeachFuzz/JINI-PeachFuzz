@@ -1,6 +1,7 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=200&section=header&desc="Hello,%20I'm%20Jinju!%20🌱%20Striving%20to%20become%20a%20better%20developer."&descAlignY=35&descSize=28)
 
-<div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=250&lines=Welcome+to+my+GitHub!)
 
