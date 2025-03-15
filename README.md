@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a6c1ee&height=200&section=header&desc="Hello,%20I'm%20Jinju!%20🌱%20Striving%20to%20become%20a%20better%20developer."&descAlignY=35&descSize=28)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+JINI-PeachFuzz+GitHub!+)](https://git.io/typing-svg)
-
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A6C1EE&title_bg=%23FF6AD5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+<br/><br/>
 🌱 "From curiosity to expertise, one step at a time."
 
 🌱 "Every problem is an opportunity to learn!"
@@ -9,7 +10,7 @@
 🌱 "Keep coding, keep growing!"
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A6C1EE&title_bg=%23FF6AD5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact)
 
