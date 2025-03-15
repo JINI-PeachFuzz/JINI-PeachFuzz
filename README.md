@@ -14,11 +14,16 @@
 
 </div></div></br>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact" width="30%">
-  <img src="https://github-readme-stats.vercel.app/api?username=JINI-PeachFuzz&hide=contribs,prs&show_icons=true&theme=dracula" width="40%">
-</div>
-
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact" width="380" height="180"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=JINI-PeachFuzz&hide=contribs,prs&show_icons=true&theme=dracula" width="380" height="180"/>
+    </td>
+  </tr>
+</table>
 </br>
 <div align="center">
 
