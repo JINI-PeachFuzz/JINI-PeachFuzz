@@ -14,9 +14,9 @@
 
 </div>
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact" width="30%">
-  <img src="https://github-readme-stats.vercel.app/api?username=JINI-PeachFuzz&hide=contribs,prs&show_icons=true&theme=dracula" width="40%">
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JINI-PeachFuzz&hide=contribs,prs&show_icons=true&theme=dracula" width="400"/>
 </div>
 
 </br>
