@@ -16,7 +16,7 @@ JINI-PeachFuzz
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINI-PeachFuzz&hide=contribs,prs&show_icons=true&theme=테마)
 
-<h1>🌱Soeunl Skills🌱</h1>
+<h1>🌱Jini Skills🌱</h1>
 
 <h2>🛠Front DEV</h2>
 <p>
