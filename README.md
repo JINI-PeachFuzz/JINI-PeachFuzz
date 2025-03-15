@@ -15,16 +15,12 @@
 
 </div></div></br>
 
-<table align="center" border="0" style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact" width="380" height="180"/>
-    </td>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=JINI-PeachFuzz&hide=contribs,prs&show_icons=true&theme=dracula" width="380" height="180"/>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact" width="380" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=JINI-PeachFuzz&hide=contribs,prs&show_icons=true&theme=dracula" width="380" height="180"/>
+  </div>
+</div>
 </br>
 <div align="center">
 
