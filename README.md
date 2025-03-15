@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!+)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=250&lines=Welcome+to+my+GitHub!)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A6C1EE&title_bg=%23FF6AD5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 <br/><br/>
 🌱 "From curiosity to expertise, one step at a time."
@@ -18,8 +18,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINI-PeachFuzz&hide=contribs,prs&show_icons=true&theme=dracula)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=aricclunj)](https://solved.ac/aricclunj/)
-
+</div>
 
 <h1>🌱Jini Skills🌱</h1>
 
