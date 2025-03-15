@@ -14,17 +14,12 @@
 
 </div>
 
-<table >
-  <tr>
-    <td border="0">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact" />
-    </td>
-    <td border="0">
-      <img src="https://github-readme-stats.vercel.app/api?username=JINI-PeachFuzz&hide=contribs,prs&show_icons=true&theme=dracula" />
-    </td>
-  </tr>
-</table>
+<div align="center" style="display: flex; justify-content: center; gap: 20px; align-items: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact" width="30%">
+  <img src="https://github-readme-stats.vercel.app/api?username=JINI-PeachFuzz&hide=contribs,prs&show_icons=true&theme=dracula" width="40%">
+</div>
 
+</br>
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A6C1EE&title_bg=%23FF6AD5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
