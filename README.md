@@ -15,12 +15,12 @@
 
 </div></div></br>
 
-<table align="center">
+<table align="center" border="0" style="border-collapse: collapse;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact" width="380" height="180"/>
     </td>
-    <td>
+    <td style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api?username=JINI-PeachFuzz&hide=contribs,prs&show_icons=true&theme=dracula" width="380" height="180"/>
     </td>
   </tr>
