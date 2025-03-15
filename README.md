@@ -3,8 +3,7 @@
 <div align="center">
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=250&lines=Welcome+to+my+GitHub!)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A6C1EE&title_bg=%23FF6AD5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
-<br/><br/>
+
 🌱 "From curiosity to expertise, one step at a time."
 
 🌱 "Every problem is an opportunity to learn!"
@@ -12,7 +11,7 @@
 🌱 "Keep coding, keep growing!"
 
 
-
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A6C1EE&title_bg=%23FF6AD5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact)
 
