@@ -4,20 +4,30 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=250&lines=Welcome+to+my+GitHub!)
 
+<div style="display: inline-block; text-align: left;">
+
 🌱 "From curiosity to expertise, one step at a time."
 
 🌱 "Every problem is an opportunity to learn!"
 
 🌱 "Keep coding, keep growing!"
 
+</div></div>
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A6C1EE&title_bg=%23FF6AD5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+<div align="center">
+  <div style="display: flex; align-items: center; justify-content: center; gap:5px;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINI-PeachFuzz&hide=contribs,prs&show_icons=true&theme=dracula)
-
+ </div>
 </div>
+<div align="center">
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A6C1EE&title_bg=%23FF6AD5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+
+
+
 
 <h1>🌱Jini Skills🌱</h1>
 
@@ -53,3 +63,4 @@
 <p>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 </p>
+</div>
