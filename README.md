@@ -2,18 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+JINI-PeachFuzz+GitHub!+)](https://git.io/typing-svg)
 
-### 👋 Hello, I'm Jinju!
+🌱 "From curiosity to expertise, one step at a time."
 
-- 💻 Backend Developer
-- 🌱 Learning: Spring Boot, Python, etc.
-- 📫 Contact: [이메일 또는 SNS 링크]
+🌱 "Every problem is an opportunity to learn!"
 
-JINI-PeachFuzz
+🌱 "Keep coding, keep growing!"
+
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23A6C1EE&title_bg=%23FF6AD5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JINI-PeachFuzz&layout=compact)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JINI-PeachFuzz&hide=contribs,prs&show_icons=true&theme=dracula)
 
